@@ -1,0 +1,12 @@
+{
+  "name": "dynamic-hues",
+  "version": "1.0.0",
+  "description": "The 'Dynamic Hues' project demonstrates dynamic color manipulation on a webpage using TypeScript, HTML, and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naimal Salahuddin",
+  "license": "ISC"
+}
